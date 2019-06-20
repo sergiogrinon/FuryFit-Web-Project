@@ -1,0 +1,10 @@
+{
+    "name": "furyfitproject",
+    "version": "0.0.7",
+    "description": "Web application made as final project. Consists in an API which provides the information by using the data contained in the MySQL database",
+    "main": "index.html",
+    "author": "Sergio Griñón Chico",
+    "dependencies": {
+        "angular-sweetalert": "^1.1.2"
+    }
+}
