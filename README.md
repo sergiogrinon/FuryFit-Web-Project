@@ -12,7 +12,7 @@ _Ya teniendo el servidor preparado, necesitamos MySQL Server y MySQL WorkBench, 
 ### Instalación
 _Lo primero que hay que hacer, cuando tenemos la API levantada en el servidor, por el puerto 8080, es ejecutar el comando "npm install", con el fin de asegurar la correcta instalación de la aplicación._
 _Una vez hecho esto, debemos ejecutar en la capeta raíz del proyecto (donde está el index.html) el comando "http-server", especificando el puerto que queramos, si no, por defecto será el 8081 ya que el 8080 estará en uso por la API. Esto es para levantar la aplicación en un servidor local, ya que si no, las CORS bloquearán las peticiones realizadas a la base de datos y con ello el correcto funcionamiento de la aplicación._
-_Para poder ejecutar, probar o utilizar el proyecto es NECESARIO INSTALAR sweetalert, con el comendo "npm install angular-sweetalert"_
+> Para poder ejecutar, probar o utilizar el proyecto es NECESARIO INSTALAR sweetalert, con el comendo "npm install angular-sweetalert"
 
 ## Deployment
 _Creado con AngularJS (un framework de JavaScript), siguiendo la metodología de carpetas descrita por el arquitecto del proyecto en el que actualmente trabajo._
